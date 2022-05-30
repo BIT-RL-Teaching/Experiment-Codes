@@ -1,6 +1,6 @@
 # Experiment-Codes
-Code for all experiments.
-21 basic experiments, 4 advanced experiments.
+Code for all experiments.<br>
+21 basic experiments and 4 advanced experiments.
 ## :wrench: Basic Dependencies
 - Python == 3.6 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
 - [PyTorch == 1.6.0](https://pytorch.org/)
@@ -16,48 +16,37 @@ Code for all experiments.
     pip install -r requirements.txt
     ```
 
-```
 ## :computer: Training
 
-We provide complete training codes for FD-MAPPO (Cubic Map).<br>
+We provide complete training codes.<br>
 You could adapt it to your own needs.
 
-1. If you don't have NVIDIA RTX 3090, you should comment these two lines in file
-[human_drone_SC/code/util.py](https://github.com/BIT-MCS/human_drone_SC/tree/main/code/util.py).
+Training
 	```
-	[24]  torch.backends.cuda.matmul.allow_tf32 = False
-	[25]  torch.backends.cudnn.allow_tf32 = False
+	python train.py 
 	```
-2. You can modify the config files 
-[human_drone_SC/code/environment/KAIST/conf.py](https://github.com/BIT-MCS/human_drone_SC/tree/main/code/environment/KAIST/conf.py) and
-[human_drone_SC/code/environment/NCSU/conf.py](https://github.com/BIT-MCS/human_drone_SC/tree/main/code/environment/NCSU/conf.py) for environments.<br>
-For example, you can control the number of drones in the environment by modifying this line
+	<br>
+### Especially: <br>
+For COMA : 
 	```
-	[43]  'uav_num': 6,
+	python main.py --config=coma --env-config=sc2 with env_args.map_name=3m
 	```
-3. You can modify the config file 
-[human_drone_SC/code/method/fd_mappo_cubicmap/conf.py](https://github.com/BIT-MCS/human_drone_SC/tree/main/code/method/fd_mappo_cubicmap/conf.py) for method.<br>
-For example, you can control the hyperparameters studied in paper by modifying these two lines
+	<br>
+For OW QMIX : 
 	```
-	[34]  'M_size': [16, 16, 16],  # Z, X, Y
-	[35]  'mtx_size': 3,  # X' (Y')
+	python main.py --config=ow_qmix --env-config=overcooked with env_args.map_name=A
 	```
-4. Training
+	<br>
+For QMIX : 
 	```
-	python main.py KAIST fd_mappo_cubicmap train
-	python main.py NCSU fd_mappo_cubicmap train
+	python main.py --config=qmix --env-config=GRF
 	```
-	The log files will be stored in [human_drone_SC/log](https://github.com/BIT-MCS/human_drone_SC/tree/main/log).
+	
+
 ## :checkered_flag: Testing
-1. Before testing, you should modify the file [human_drone_SC/code/env_method_set.py](https://github.com/BIT-MCS/human_drone_SC/tree/main/code/env_method_set.py) to ensure the datetime of the version you want to test is right.
+Testing
 	```
-	[2]  'KAIST/fd_mappo_cubicmap': '2021-05-27/23-48-01',
-	[3]  'NCSU/fd_mappo_cubicmap': '2021-05-20/16-56-41',
-	```
-2. Testing
-	```
-	python main.py KAIST fd_mappo_cubicmap test
-	python main.py NCSU fd_mappo_cubicmap test
+	python test.py 
 	```
 
 
