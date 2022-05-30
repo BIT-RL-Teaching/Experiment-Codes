@@ -27,7 +27,7 @@ Training
 	```
 	<br>
 ### Especially: <br>
-For COMA : 
+For &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COMA : 
 	```
 	python main.py --config=coma --env-config=sc2 with env_args.map_name=3m
 	```
@@ -37,7 +37,7 @@ For OW QMIX :
 	python main.py --config=ow_qmix --env-config=overcooked with env_args.map_name=A
 	```
 	<br>
-For QMIX : 
+For &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QMIX : 
 	```
 	python main.py --config=qmix --env-config=GRF
 	```
