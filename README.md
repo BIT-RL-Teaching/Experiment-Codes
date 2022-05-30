@@ -23,7 +23,7 @@ You could adapt it to your own needs.
 
 Training
 	```
-	python train.py 
+	python *train.py 
 	```
 	<br>
 ### Especially: <br>
@@ -46,7 +46,7 @@ Training
 ## :checkered_flag: Testing
 Testing
 	```
-	python test.py 
+	python *test.py 
 	```
 
 
