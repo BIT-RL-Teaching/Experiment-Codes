@@ -27,6 +27,9 @@ Training
 	```
 	<br>
 ### Especially: <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;For &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rainbow: ```python rainbow_for_train_full.py --env_name=BreakoutNoFrameskip-v4 --mem_size=1000000 ``` 
+
 &nbsp;&nbsp;&nbsp;&nbsp;For &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COMA : 
 	```
 	python main.py --config=coma --env-config=sc2 with env_args.map_name=3m
