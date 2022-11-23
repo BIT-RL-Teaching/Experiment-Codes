@@ -1,0 +1,520 @@
+
+time 00h 01m 00s, episodes 45, frames 0.2 M, mean_epr -20.86, run_loss -32.74
+time 00h 02m 00s, episodes 106, frames 0.4 M, mean_epr -20.68, run_loss -34.07
+time 00h 03m 00s, episodes 166, frames 0.6 M, mean_epr -20.47, run_loss -41.32
+time 00h 04m 00s, episodes 225, frames 0.8 M, mean_epr -20.41, run_loss -49.18
+time 00h 05m 00s, episodes 285, frames 1.0 M, mean_epr -20.35, run_loss -51.92
+time 00h 06m 00s, episodes 339, frames 1.2 M, mean_epr -20.42, run_loss -53.06
+time 00h 07m 00s, episodes 398, frames 1.5 M, mean_epr -20.27, run_loss -54.41
+time 00h 08m 00s, episodes 455, frames 1.7 M, mean_epr -20.18, run_loss -55.91
+time 00h 09m 00s, episodes 515, frames 1.9 M, mean_epr -20.19, run_loss -55.84
+
+	2M frames: saved model
+
+time 00h 10m 00s, episodes 572, frames 2.1 M, mean_epr -20.20, run_loss -56.43
+time 00h 11m 00s, episodes 625, frames 2.3 M, mean_epr -20.17, run_loss -54.54
+time 00h 12m 00s, episodes 686, frames 2.5 M, mean_epr -20.31, run_loss -57.57
+time 00h 13m 00s, episodes 746, frames 2.7 M, mean_epr -20.35, run_loss -54.76
+time 00h 14m 00s, episodes 804, frames 2.9 M, mean_epr -20.34, run_loss -56.21
+time 00h 15m 00s, episodes 860, frames 3.1 M, mean_epr -20.26, run_loss -55.92
+time 00h 16m 00s, episodes 915, frames 3.4 M, mean_epr -20.05, run_loss -55.40
+time 00h 17m 00s, episodes 973, frames 3.6 M, mean_epr -20.18, run_loss -56.63
+time 00h 18m 00s, episodes 1026, frames 3.8 M, mean_epr -20.08, run_loss -56.61
+time 00h 19m 00s, episodes 1085, frames 4.0 M, mean_epr -20.08, run_loss -57.47
+
+	4M frames: saved model
+
+time 00h 20m 00s, episodes 1140, frames 4.2 M, mean_epr -20.11, run_loss -58.74
+time 00h 21m 00s, episodes 1191, frames 4.4 M, mean_epr -20.11, run_loss -57.82
+time 00h 22m 00s, episodes 1254, frames 4.6 M, mean_epr -20.20, run_loss -57.31
+time 00h 23m 00s, episodes 1311, frames 4.8 M, mean_epr -20.21, run_loss -57.71
+time 00h 24m 00s, episodes 1368, frames 5.0 M, mean_epr -20.20, run_loss -56.65
+time 00h 25m 00s, episodes 1424, frames 5.3 M, mean_epr -20.15, run_loss -56.99
+time 00h 26m 00s, episodes 1480, frames 5.5 M, mean_epr -20.27, run_loss -58.07
+time 00h 27m 00s, episodes 1538, frames 5.7 M, mean_epr -20.26, run_loss -55.16
+time 00h 28m 00s, episodes 1593, frames 5.9 M, mean_epr -20.20, run_loss -55.17
+time 00h 29m 00s, episodes 1651, frames 6.1 M, mean_epr -20.21, run_loss -56.32
+time 00h 30m 00s, episodes 1712, frames 6.3 M, mean_epr -20.23, run_loss -57.66
+time 00h 31m 00s, episodes 1773, frames 6.5 M, mean_epr -20.30, run_loss -57.02
+time 00h 32m 00s, episodes 1828, frames 6.7 M, mean_epr -20.25, run_loss -56.24
+time 00h 33m 00s, episodes 1884, frames 6.9 M, mean_epr -20.19, run_loss -57.28
+time 00h 34m 00s, episodes 1939, frames 7.1 M, mean_epr -20.12, run_loss -57.29
+time 00h 35m 00s, episodes 1998, frames 7.4 M, mean_epr -20.23, run_loss -58.06
+time 00h 36m 00s, episodes 2055, frames 7.6 M, mean_epr -20.30, run_loss -57.23
+time 00h 37m 00s, episodes 2113, frames 7.8 M, mean_epr -20.31, run_loss -58.16
+time 00h 38m 00s, episodes 2170, frames 8.0 M, mean_epr -20.17, run_loss -55.65
+
+	8M frames: saved model
+
+time 00h 39m 00s, episodes 2225, frames 8.2 M, mean_epr -20.22, run_loss -57.06
+time 00h 40m 00s, episodes 2280, frames 8.4 M, mean_epr -20.20, run_loss -58.36
+time 00h 41m 00s, episodes 2339, frames 8.6 M, mean_epr -20.25, run_loss -57.68
+time 00h 42m 00s, episodes 2394, frames 8.8 M, mean_epr -20.24, run_loss -59.09
+time 00h 43m 00s, episodes 2450, frames 9.0 M, mean_epr -20.21, run_loss -59.55
+time 00h 44m 00s, episodes 2501, frames 9.3 M, mean_epr -20.07, run_loss -61.37
+time 00h 45m 00s, episodes 2562, frames 9.5 M, mean_epr -20.16, run_loss -58.84
+time 00h 46m 00s, episodes 2618, frames 9.7 M, mean_epr -20.12, run_loss -57.90
+time 00h 47m 00s, episodes 2675, frames 9.9 M, mean_epr -20.17, run_loss -57.77
+
+	10M frames: saved model
+
+time 00h 48m 00s, episodes 2729, frames 10.1 M, mean_epr -20.01, run_loss -58.53
+time 00h 49m 00s, episodes 2776, frames 10.3 M, mean_epr -20.05, run_loss -60.90
+time 00h 50m 00s, episodes 2816, frames 10.5 M, mean_epr -19.85, run_loss -62.69
+time 00h 51m 00s, episodes 2854, frames 10.7 M, mean_epr -19.22, run_loss -69.41
+time 00h 52m 00s, episodes 2886, frames 10.9 M, mean_epr -18.78, run_loss -73.41
+time 00h 53m 00s, episodes 2919, frames 11.2 M, mean_epr -18.20, run_loss -79.15
+time 00h 54m 00s, episodes 2952, frames 11.4 M, mean_epr -17.98, run_loss -84.88
+time 00h 55m 00s, episodes 2987, frames 11.6 M, mean_epr -17.69, run_loss -84.45
+time 00h 56m 00s, episodes 3018, frames 11.8 M, mean_epr -17.41, run_loss -83.99
+
+	12M frames: saved model
+
+time 00h 57m 00s, episodes 3047, frames 12.0 M, mean_epr -16.93, run_loss -88.36
+time 00h 58m 00s, episodes 3072, frames 12.2 M, mean_epr -16.64, run_loss -92.44
+time 00h 59m 00s, episodes 3101, frames 12.4 M, mean_epr -16.26, run_loss -94.79
+time 01h 00m 00s, episodes 3127, frames 12.6 M, mean_epr -16.10, run_loss -100.97
+time 01h 01m 00s, episodes 3154, frames 12.9 M, mean_epr -15.92, run_loss -99.35
+time 01h 02m 00s, episodes 3180, frames 13.1 M, mean_epr -15.74, run_loss -104.01
+time 01h 03m 00s, episodes 3208, frames 13.3 M, mean_epr -15.39, run_loss -103.92
+time 01h 04m 00s, episodes 3231, frames 13.5 M, mean_epr -15.45, run_loss -106.59
+time 01h 05m 00s, episodes 3256, frames 13.7 M, mean_epr -15.18, run_loss -106.81
+time 01h 06m 00s, episodes 3283, frames 13.9 M, mean_epr -14.95, run_loss -109.28
+
+	14M frames: saved model
+
+time 01h 07m 00s, episodes 3309, frames 14.1 M, mean_epr -14.68, run_loss -112.92
+time 01h 08m 00s, episodes 3332, frames 14.4 M, mean_epr -14.55, run_loss -113.75
+time 01h 09m 00s, episodes 3354, frames 14.6 M, mean_epr -14.38, run_loss -113.66
+time 01h 10m 00s, episodes 3378, frames 14.8 M, mean_epr -14.28, run_loss -120.54
+time 01h 11m 00s, episodes 3400, frames 15.0 M, mean_epr -13.87, run_loss -119.65
+time 01h 12m 00s, episodes 3423, frames 15.2 M, mean_epr -13.98, run_loss -123.98
+time 01h 13m 00s, episodes 3446, frames 15.4 M, mean_epr -13.91, run_loss -125.36
+time 01h 14m 00s, episodes 3467, frames 15.6 M, mean_epr -13.51, run_loss -127.41
+time 01h 15m 00s, episodes 3488, frames 15.9 M, mean_epr -13.15, run_loss -128.03
+
+	16M frames: saved model
+
+time 01h 16m 00s, episodes 3509, frames 16.1 M, mean_epr -12.78, run_loss -128.23
+time 01h 17m 01s, episodes 3531, frames 16.3 M, mean_epr -12.08, run_loss -130.11
+time 01h 18m 01s, episodes 3556, frames 16.5 M, mean_epr -11.69, run_loss -133.71
+time 01h 19m 01s, episodes 3577, frames 16.7 M, mean_epr -11.01, run_loss -135.14
+time 01h 20m 01s, episodes 3599, frames 16.9 M, mean_epr -10.35, run_loss -135.90
+time 01h 21m 01s, episodes 3619, frames 17.1 M, mean_epr -9.81, run_loss -135.47
+time 01h 22m 01s, episodes 3639, frames 17.4 M, mean_epr -9.41, run_loss -138.42
+time 01h 23m 01s, episodes 3660, frames 17.6 M, mean_epr -9.18, run_loss -136.14
+time 01h 24m 01s, episodes 3683, frames 17.8 M, mean_epr -8.90, run_loss -139.48
+time 01h 25m 01s, episodes 3705, frames 18.0 M, mean_epr -8.71, run_loss -138.53
+
+	18M frames: saved model
+
+time 01h 26m 01s, episodes 3727, frames 18.2 M, mean_epr -8.68, run_loss -143.04
+time 01h 27m 01s, episodes 3748, frames 18.4 M, mean_epr -8.29, run_loss -138.61
+time 01h 28m 01s, episodes 3768, frames 18.6 M, mean_epr -8.20, run_loss -143.56
+time 01h 29m 01s, episodes 3790, frames 18.8 M, mean_epr -8.52, run_loss -144.07
+time 01h 30m 01s, episodes 3812, frames 19.1 M, mean_epr -8.23, run_loss -142.15
+time 01h 31m 01s, episodes 3834, frames 19.3 M, mean_epr -8.26, run_loss -144.56
+time 01h 32m 01s, episodes 3856, frames 19.5 M, mean_epr -7.63, run_loss -144.11
+time 01h 33m 01s, episodes 3876, frames 19.7 M, mean_epr -7.36, run_loss -145.73
+time 01h 34m 01s, episodes 3898, frames 19.9 M, mean_epr -7.23, run_loss -146.18
+
+	20M frames: saved model
+
+time 01h 35m 01s, episodes 3920, frames 20.1 M, mean_epr -7.20, run_loss -145.98
+time 01h 36m 01s, episodes 3939, frames 20.3 M, mean_epr -7.09, run_loss -146.15
+time 01h 37m 01s, episodes 3962, frames 20.6 M, mean_epr -6.50, run_loss -146.24
+time 01h 38m 01s, episodes 3984, frames 20.8 M, mean_epr -6.16, run_loss -145.27
+time 01h 39m 01s, episodes 4006, frames 21.0 M, mean_epr -5.94, run_loss -146.63
+time 01h 40m 01s, episodes 4028, frames 21.2 M, mean_epr -5.91, run_loss -150.02
+time 01h 41m 01s, episodes 4048, frames 21.4 M, mean_epr -5.59, run_loss -149.08
+time 01h 42m 01s, episodes 4069, frames 21.6 M, mean_epr -5.44, run_loss -147.32
+time 01h 43m 01s, episodes 4090, frames 21.8 M, mean_epr -5.25, run_loss -148.71
+
+	22M frames: saved model
+
+time 01h 44m 01s, episodes 4113, frames 22.1 M, mean_epr -5.24, run_loss -154.28
+time 01h 45m 01s, episodes 4136, frames 22.3 M, mean_epr -4.78, run_loss -150.48
+time 01h 46m 01s, episodes 4157, frames 22.5 M, mean_epr -4.90, run_loss -154.13
+time 01h 47m 01s, episodes 4177, frames 22.7 M, mean_epr -4.83, run_loss -153.86
+time 01h 48m 01s, episodes 4198, frames 22.9 M, mean_epr -4.77, run_loss -150.61
+time 01h 49m 01s, episodes 4221, frames 23.1 M, mean_epr -4.63, run_loss -154.67
+time 01h 50m 01s, episodes 4241, frames 23.3 M, mean_epr -4.17, run_loss -154.50
+time 01h 51m 01s, episodes 4259, frames 23.5 M, mean_epr -4.17, run_loss -153.04
+time 01h 52m 01s, episodes 4280, frames 23.8 M, mean_epr -3.86, run_loss -151.23
+time 01h 53m 01s, episodes 4304, frames 24.0 M, mean_epr -3.78, run_loss -156.53
+
+	24M frames: saved model
+
+time 01h 54m 01s, episodes 4324, frames 24.2 M, mean_epr -3.32, run_loss -157.11
+time 01h 55m 01s, episodes 4344, frames 24.4 M, mean_epr -2.96, run_loss -156.69
+time 01h 56m 01s, episodes 4365, frames 24.6 M, mean_epr -3.12, run_loss -156.94
+time 01h 57m 01s, episodes 4388, frames 24.8 M, mean_epr -2.69, run_loss -159.55
+time 01h 58m 01s, episodes 4411, frames 25.0 M, mean_epr -2.76, run_loss -158.50
+time 01h 59m 01s, episodes 4431, frames 25.2 M, mean_epr -2.76, run_loss -159.83
+time 02h 00m 01s, episodes 4451, frames 25.5 M, mean_epr -2.56, run_loss -157.32
+time 02h 01m 01s, episodes 4472, frames 25.7 M, mean_epr -2.55, run_loss -158.41
+time 02h 02m 01s, episodes 4495, frames 25.9 M, mean_epr -2.26, run_loss -159.01
+
+	26M frames: saved model
+
+time 02h 03m 01s, episodes 4517, frames 26.1 M, mean_epr -2.32, run_loss -160.80
+time 02h 04m 01s, episodes 4538, frames 26.3 M, mean_epr -2.40, run_loss -161.10
+time 02h 05m 01s, episodes 4559, frames 26.5 M, mean_epr -2.23, run_loss -162.45
+time 02h 06m 01s, episodes 4583, frames 26.7 M, mean_epr -2.20, run_loss -163.53
+time 02h 07m 01s, episodes 4603, frames 26.9 M, mean_epr -2.25, run_loss -164.42
+time 02h 08m 01s, episodes 4623, frames 27.2 M, mean_epr -2.31, run_loss -165.30
+time 02h 09m 01s, episodes 4643, frames 27.4 M, mean_epr -2.36, run_loss -165.51
+time 02h 10m 01s, episodes 4662, frames 27.6 M, mean_epr -2.34, run_loss -166.04
+time 02h 11m 01s, episodes 4684, frames 27.8 M, mean_epr -1.77, run_loss -165.04
+
+	28M frames: saved model
+
+time 02h 12m 01s, episodes 4706, frames 28.0 M, mean_epr -1.51, run_loss -165.58
+time 02h 13m 01s, episodes 4728, frames 28.2 M, mean_epr -1.64, run_loss -166.88
+time 02h 14m 01s, episodes 4747, frames 28.4 M, mean_epr -1.36, run_loss -168.68
+time 02h 15m 01s, episodes 4770, frames 28.6 M, mean_epr -0.95, run_loss -165.87
+time 02h 16m 01s, episodes 4790, frames 28.9 M, mean_epr -0.86, run_loss -166.47
+time 02h 17m 01s, episodes 4813, frames 29.1 M, mean_epr -0.41, run_loss -169.41
+time 02h 18m 02s, episodes 4833, frames 29.3 M, mean_epr -0.06, run_loss -168.43
+time 02h 19m 02s, episodes 4855, frames 29.5 M, mean_epr 0.03, run_loss -169.30
+time 02h 20m 02s, episodes 4876, frames 29.7 M, mean_epr 0.09, run_loss -170.88
+time 02h 21m 02s, episodes 4898, frames 29.9 M, mean_epr 0.24, run_loss -170.07
+
+	30M frames: saved model
+
+time 02h 22m 02s, episodes 4920, frames 30.1 M, mean_epr 0.10, run_loss -170.73
+time 02h 23m 02s, episodes 4941, frames 30.3 M, mean_epr -0.13, run_loss -171.56
+time 02h 24m 02s, episodes 4960, frames 30.5 M, mean_epr 0.01, run_loss -170.12
+time 02h 25m 02s, episodes 4982, frames 30.8 M, mean_epr -0.13, run_loss -171.64
+time 02h 26m 02s, episodes 5003, frames 31.0 M, mean_epr -0.08, run_loss -171.09
+time 02h 27m 02s, episodes 5023, frames 31.2 M, mean_epr -0.31, run_loss -171.97
+time 02h 28m 02s, episodes 5043, frames 31.4 M, mean_epr -0.37, run_loss -173.08
+time 02h 29m 02s, episodes 5066, frames 31.6 M, mean_epr -0.49, run_loss -175.03
+time 02h 30m 02s, episodes 5086, frames 31.8 M, mean_epr -0.33, run_loss -171.78
+
+	32M frames: saved model
+
+time 02h 31m 02s, episodes 5106, frames 32.0 M, mean_epr -0.37, run_loss -172.57
+time 02h 32m 02s, episodes 5127, frames 32.2 M, mean_epr -0.35, run_loss -171.43
+time 02h 33m 02s, episodes 5150, frames 32.4 M, mean_epr -0.16, run_loss -170.97
+time 02h 34m 02s, episodes 5171, frames 32.6 M, mean_epr 0.26, run_loss -172.81
+time 02h 35m 02s, episodes 5191, frames 32.8 M, mean_epr 0.27, run_loss -169.98
+time 02h 36m 02s, episodes 5210, frames 33.0 M, mean_epr 0.02, run_loss -171.90
+time 02h 37m 02s, episodes 5233, frames 33.3 M, mean_epr -0.07, run_loss -173.08
+time 02h 38m 02s, episodes 5251, frames 33.5 M, mean_epr -0.11, run_loss -175.78
+time 02h 39m 02s, episodes 5273, frames 33.7 M, mean_epr -0.20, run_loss -174.12
+time 02h 40m 02s, episodes 5294, frames 33.9 M, mean_epr -0.22, run_loss -174.55
+
+	34M frames: saved model
+
+time 02h 41m 02s, episodes 5316, frames 34.1 M, mean_epr -0.11, run_loss -176.52
+time 02h 42m 02s, episodes 5336, frames 34.3 M, mean_epr -0.01, run_loss -176.53
+time 02h 43m 02s, episodes 5356, frames 34.5 M, mean_epr 0.34, run_loss -176.29
+time 02h 44m 02s, episodes 5376, frames 34.7 M, mean_epr 0.44, run_loss -176.25
+time 02h 45m 02s, episodes 5399, frames 34.9 M, mean_epr 0.50, run_loss -174.90
+time 02h 46m 02s, episodes 5421, frames 35.1 M, mean_epr 0.88, run_loss -172.43
+time 02h 47m 02s, episodes 5441, frames 35.3 M, mean_epr 1.56, run_loss -171.67
+time 02h 48m 02s, episodes 5460, frames 35.5 M, mean_epr 2.08, run_loss -171.80
+time 02h 49m 02s, episodes 5484, frames 35.8 M, mean_epr 1.63, run_loss -174.73
+time 02h 50m 02s, episodes 5502, frames 36.0 M, mean_epr 1.67, run_loss -173.15
+
+	36M frames: saved model
+
+time 02h 51m 02s, episodes 5523, frames 36.2 M, mean_epr 1.61, run_loss -174.23
+time 02h 52m 02s, episodes 5546, frames 36.4 M, mean_epr 1.35, run_loss -174.98
+time 02h 53m 02s, episodes 5568, frames 36.6 M, mean_epr 1.30, run_loss -172.69
+time 02h 54m 02s, episodes 5589, frames 36.8 M, mean_epr 0.99, run_loss -174.84
+time 02h 55m 02s, episodes 5609, frames 37.0 M, mean_epr 1.14, run_loss -173.31
+time 02h 56m 02s, episodes 5633, frames 37.2 M, mean_epr 1.15, run_loss -173.75
+time 02h 57m 02s, episodes 5653, frames 37.5 M, mean_epr 1.09, run_loss -175.57
+time 02h 58m 02s, episodes 5674, frames 37.7 M, mean_epr 1.12, run_loss -174.33
+time 02h 59m 02s, episodes 5695, frames 37.9 M, mean_epr 1.27, run_loss -173.58
+
+	38M frames: saved model
+
+time 03h 00m 02s, episodes 5716, frames 38.1 M, mean_epr 1.51, run_loss -175.20
+time 03h 01m 02s, episodes 5738, frames 38.3 M, mean_epr 1.88, run_loss -174.41
+time 03h 02m 02s, episodes 5759, frames 38.5 M, mean_epr 1.89, run_loss -176.07
+time 03h 03m 02s, episodes 5781, frames 38.7 M, mean_epr 1.93, run_loss -178.48
+time 03h 04m 02s, episodes 5801, frames 39.0 M, mean_epr 2.03, run_loss -178.00
+time 03h 05m 02s, episodes 5823, frames 39.2 M, mean_epr 1.73, run_loss -179.10
+time 03h 06m 02s, episodes 5846, frames 39.4 M, mean_epr 1.34, run_loss -181.42
+time 03h 07m 02s, episodes 5866, frames 39.6 M, mean_epr 1.56, run_loss -179.36
+time 03h 08m 02s, episodes 5887, frames 39.8 M, mean_epr 1.79, run_loss -177.56
+
+	40M frames: saved model
+
+time 03h 09m 02s, episodes 5910, frames 40.0 M, mean_epr 1.95, run_loss -179.83
+time 03h 10m 02s, episodes 5932, frames 40.2 M, mean_epr 2.06, run_loss -179.22
+time 03h 11m 02s, episodes 5951, frames 40.4 M, mean_epr 2.33, run_loss -180.10
+time 03h 12m 02s, episodes 5971, frames 40.7 M, mean_epr 2.40, run_loss -181.08
+time 03h 13m 02s, episodes 5996, frames 40.9 M, mean_epr 2.71, run_loss -179.71
+time 03h 14m 02s, episodes 6015, frames 41.1 M, mean_epr 2.94, run_loss -179.25
+time 03h 15m 02s, episodes 6035, frames 41.3 M, mean_epr 2.97, run_loss -179.41
+time 03h 16m 02s, episodes 6059, frames 41.5 M, mean_epr 3.30, run_loss -180.57
+time 03h 17m 02s, episodes 6079, frames 41.7 M, mean_epr 3.40, run_loss -181.35
+time 03h 18m 03s, episodes 6101, frames 41.9 M, mean_epr 3.34, run_loss -180.58
+
+	42M frames: saved model
+
+time 03h 19m 03s, episodes 6122, frames 42.1 M, mean_epr 3.06, run_loss -183.23
+time 03h 20m 03s, episodes 6143, frames 42.4 M, mean_epr 3.77, run_loss -181.44
+time 03h 21m 03s, episodes 6164, frames 42.6 M, mean_epr 3.93, run_loss -181.69
+time 03h 22m 03s, episodes 6183, frames 42.8 M, mean_epr 3.88, run_loss -182.77
+time 03h 23m 03s, episodes 6206, frames 43.0 M, mean_epr 4.07, run_loss -182.51
+time 03h 24m 03s, episodes 6227, frames 43.2 M, mean_epr 3.88, run_loss -181.71
+time 03h 25m 03s, episodes 6248, frames 43.4 M, mean_epr 3.83, run_loss -180.42
+time 03h 26m 03s, episodes 6270, frames 43.7 M, mean_epr 3.52, run_loss -180.16
+time 03h 27m 03s, episodes 6293, frames 43.9 M, mean_epr 3.59, run_loss -179.99
+
+	44M frames: saved model
+
+time 03h 28m 03s, episodes 6314, frames 44.1 M, mean_epr 3.57, run_loss -181.32
+time 03h 29m 03s, episodes 6336, frames 44.3 M, mean_epr 3.64, run_loss -182.40
+time 03h 30m 03s, episodes 6359, frames 44.5 M, mean_epr 4.02, run_loss -181.30
+time 03h 31m 03s, episodes 6379, frames 44.7 M, mean_epr 4.11, run_loss -180.64
+time 03h 32m 03s, episodes 6400, frames 44.9 M, mean_epr 3.91, run_loss -181.92
+time 03h 33m 03s, episodes 6420, frames 45.1 M, mean_epr 4.33, run_loss -179.51
+time 03h 34m 03s, episodes 6443, frames 45.3 M, mean_epr 4.69, run_loss -177.90
+time 03h 35m 03s, episodes 6464, frames 45.6 M, mean_epr 4.74, run_loss -181.14
+time 03h 36m 03s, episodes 6484, frames 45.8 M, mean_epr 4.97, run_loss -179.54
+time 03h 37m 03s, episodes 6504, frames 46.0 M, mean_epr 5.19, run_loss -180.84
+
+	46M frames: saved model
+
+time 03h 38m 03s, episodes 6526, frames 46.2 M, mean_epr 5.31, run_loss -181.69
+time 03h 39m 03s, episodes 6547, frames 46.4 M, mean_epr 5.36, run_loss -180.11
+time 03h 40m 03s, episodes 6568, frames 46.6 M, mean_epr 5.22, run_loss -180.02
+time 03h 41m 03s, episodes 6590, frames 46.8 M, mean_epr 5.79, run_loss -177.04
+time 03h 42m 03s, episodes 6611, frames 47.0 M, mean_epr 5.89, run_loss -179.25
+time 03h 43m 03s, episodes 6632, frames 47.3 M, mean_epr 5.84, run_loss -181.06
+time 03h 44m 03s, episodes 6654, frames 47.5 M, mean_epr 6.44, run_loss -181.11
+time 03h 45m 03s, episodes 6674, frames 47.7 M, mean_epr 6.79, run_loss -179.55
+time 03h 46m 03s, episodes 6696, frames 47.9 M, mean_epr 7.47, run_loss -177.93
+
+	48M frames: saved model
+
+time 03h 47m 03s, episodes 6719, frames 48.1 M, mean_epr 8.11, run_loss -179.46
+time 03h 48m 03s, episodes 6739, frames 48.3 M, mean_epr 8.49, run_loss -177.72
+time 03h 49m 03s, episodes 6762, frames 48.5 M, mean_epr 8.34, run_loss -179.29
+time 03h 50m 03s, episodes 6781, frames 48.7 M, mean_epr 8.36, run_loss -176.97
+time 03h 51m 03s, episodes 6802, frames 48.9 M, mean_epr 7.99, run_loss -177.17
+time 03h 52m 03s, episodes 6824, frames 49.2 M, mean_epr 7.57, run_loss -179.17
+time 03h 53m 03s, episodes 6846, frames 49.4 M, mean_epr 7.44, run_loss -178.99
+time 03h 54m 03s, episodes 6865, frames 49.6 M, mean_epr 7.56, run_loss -176.77
+time 03h 55m 03s, episodes 6887, frames 49.8 M, mean_epr 7.60, run_loss -178.77
+time 03h 56m 03s, episodes 6907, frames 50.0 M, mean_epr 7.75, run_loss -179.25
+
+	50M frames: saved model
+
+time 03h 57m 03s, episodes 6929, frames 50.2 M, mean_epr 7.95, run_loss -178.72
+time 03h 58m 03s, episodes 6950, frames 50.4 M, mean_epr 7.77, run_loss -180.13
+time 03h 59m 03s, episodes 6971, frames 50.6 M, mean_epr 7.96, run_loss -178.27
+time 04h 00m 03s, episodes 6992, frames 50.8 M, mean_epr 8.14, run_loss -178.88
+time 04h 01m 03s, episodes 7013, frames 51.0 M, mean_epr 8.60, run_loss -179.34
+time 04h 02m 03s, episodes 7033, frames 51.2 M, mean_epr 8.65, run_loss -180.56
+time 04h 03m 03s, episodes 7053, frames 51.4 M, mean_epr 8.79, run_loss -180.82
+time 04h 04m 03s, episodes 7074, frames 51.6 M, mean_epr 9.41, run_loss -175.86
+time 04h 05m 03s, episodes 7094, frames 51.8 M, mean_epr 9.67, run_loss -175.93
+
+	52M frames: saved model
+
+time 04h 06m 03s, episodes 7116, frames 52.0 M, mean_epr 9.89, run_loss -175.96
+time 04h 07m 03s, episodes 7138, frames 52.3 M, mean_epr 10.27, run_loss -174.75
+time 04h 08m 03s, episodes 7160, frames 52.5 M, mean_epr 10.89, run_loss -174.62
+time 04h 09m 03s, episodes 7181, frames 52.7 M, mean_epr 11.06, run_loss -175.29
+time 04h 10m 03s, episodes 7200, frames 52.9 M, mean_epr 11.11, run_loss -174.11
+time 04h 11m 03s, episodes 7221, frames 53.1 M, mean_epr 10.40, run_loss -176.62
+time 04h 12m 03s, episodes 7242, frames 53.3 M, mean_epr 10.31, run_loss -177.85
+time 04h 13m 03s, episodes 7263, frames 53.5 M, mean_epr 10.48, run_loss -176.20
+time 04h 14m 03s, episodes 7284, frames 53.7 M, mean_epr 10.34, run_loss -178.09
+time 04h 15m 03s, episodes 7306, frames 53.9 M, mean_epr 10.64, run_loss -177.51
+
+	54M frames: saved model
+
+time 04h 16m 03s, episodes 7325, frames 54.1 M, mean_epr 10.12, run_loss -178.95
+time 04h 17m 04s, episodes 7346, frames 54.3 M, mean_epr 10.18, run_loss -177.50
+time 04h 18m 04s, episodes 7368, frames 54.5 M, mean_epr 10.04, run_loss -178.99
+time 04h 19m 04s, episodes 7387, frames 54.7 M, mean_epr 10.30, run_loss -178.15
+time 04h 20m 04s, episodes 7409, frames 54.9 M, mean_epr 10.73, run_loss -178.68
+time 04h 21m 04s, episodes 7432, frames 55.1 M, mean_epr 10.58, run_loss -179.34
+time 04h 22m 04s, episodes 7453, frames 55.3 M, mean_epr 10.43, run_loss -178.40
+time 04h 23m 04s, episodes 7469, frames 55.5 M, mean_epr 10.70, run_loss -176.52
+time 04h 24m 04s, episodes 7491, frames 55.7 M, mean_epr 10.58, run_loss -176.88
+time 04h 25m 04s, episodes 7509, frames 55.9 M, mean_epr 10.80, run_loss -176.43
+
+	56M frames: saved model
+
+time 04h 26m 04s, episodes 7529, frames 56.1 M, mean_epr 11.17, run_loss -176.55
+time 04h 27m 04s, episodes 7548, frames 56.3 M, mean_epr 10.97, run_loss -177.21
+time 04h 28m 04s, episodes 7569, frames 56.5 M, mean_epr 11.34, run_loss -174.67
+time 04h 29m 04s, episodes 7590, frames 56.7 M, mean_epr 11.55, run_loss -173.98
+time 04h 30m 04s, episodes 7606, frames 56.9 M, mean_epr 11.37, run_loss -174.77
+time 04h 31m 04s, episodes 7623, frames 57.0 M, mean_epr 11.12, run_loss -175.65
+time 04h 32m 04s, episodes 7643, frames 57.2 M, mean_epr 10.78, run_loss -175.93
+time 04h 33m 04s, episodes 7663, frames 57.4 M, mean_epr 10.40, run_loss -177.39
+time 04h 34m 04s, episodes 7685, frames 57.6 M, mean_epr 11.11, run_loss -176.35
+time 04h 35m 04s, episodes 7702, frames 57.8 M, mean_epr 11.47, run_loss -176.56
+time 04h 36m 04s, episodes 7720, frames 58.0 M, mean_epr 11.41, run_loss -176.73
+
+	58M frames: saved model
+
+time 04h 37m 04s, episodes 7739, frames 58.2 M, mean_epr 11.77, run_loss -175.25
+time 04h 38m 04s, episodes 7757, frames 58.3 M, mean_epr 11.76, run_loss -175.80
+time 04h 39m 04s, episodes 7777, frames 58.5 M, mean_epr 12.09, run_loss -174.35
+time 04h 40m 04s, episodes 7795, frames 58.7 M, mean_epr 11.88, run_loss -177.52
+time 04h 41m 04s, episodes 7814, frames 58.9 M, mean_epr 12.09, run_loss -173.47
+time 04h 42m 04s, episodes 7835, frames 59.1 M, mean_epr 12.47, run_loss -172.69
+time 04h 43m 04s, episodes 7854, frames 59.3 M, mean_epr 12.16, run_loss -172.37
+time 04h 44m 04s, episodes 7876, frames 59.5 M, mean_epr 12.40, run_loss -172.17
+time 04h 45m 04s, episodes 7896, frames 59.7 M, mean_epr 12.91, run_loss -172.89
+time 04h 46m 04s, episodes 7915, frames 59.8 M, mean_epr 13.19, run_loss -169.87
+
+	60M frames: saved model
+
+time 04h 47m 04s, episodes 7934, frames 60.0 M, mean_epr 13.36, run_loss -171.00
+time 04h 48m 04s, episodes 7954, frames 60.2 M, mean_epr 13.25, run_loss -169.52
+time 04h 49m 04s, episodes 7973, frames 60.4 M, mean_epr 13.58, run_loss -170.05
+time 04h 50m 04s, episodes 7993, frames 60.5 M, mean_epr 13.61, run_loss -170.51
+time 04h 51m 04s, episodes 8010, frames 60.7 M, mean_epr 13.72, run_loss -170.67
+time 04h 52m 04s, episodes 8026, frames 60.9 M, mean_epr 13.26, run_loss -170.92
+time 04h 53m 04s, episodes 8046, frames 61.1 M, mean_epr 12.23, run_loss -173.87
+time 04h 54m 04s, episodes 8063, frames 61.2 M, mean_epr 12.19, run_loss -173.58
+time 04h 55m 04s, episodes 8081, frames 61.4 M, mean_epr 12.34, run_loss -173.70
+time 04h 56m 04s, episodes 8100, frames 61.6 M, mean_epr 12.46, run_loss -175.13
+time 04h 57m 04s, episodes 8119, frames 61.8 M, mean_epr 12.29, run_loss -175.65
+time 04h 58m 04s, episodes 8135, frames 62.0 M, mean_epr 12.37, run_loss -173.74
+
+	62M frames: saved model
+
+time 04h 59m 04s, episodes 8155, frames 62.1 M, mean_epr 12.49, run_loss -172.25
+time 05h 00m 04s, episodes 8175, frames 62.3 M, mean_epr 12.61, run_loss -173.08
+time 05h 01m 04s, episodes 8193, frames 62.5 M, mean_epr 12.87, run_loss -170.05
+time 05h 02m 04s, episodes 8209, frames 62.7 M, mean_epr 12.74, run_loss -173.39
+time 05h 03m 04s, episodes 8229, frames 62.8 M, mean_epr 12.85, run_loss -171.92
+time 05h 04m 04s, episodes 8249, frames 63.0 M, mean_epr 13.08, run_loss -171.45
+time 05h 05m 04s, episodes 8265, frames 63.2 M, mean_epr 13.48, run_loss -169.14
+time 05h 06m 04s, episodes 8281, frames 63.4 M, mean_epr 13.52, run_loss -171.36
+time 05h 07m 04s, episodes 8304, frames 63.5 M, mean_epr 14.00, run_loss -170.15
+time 05h 08m 04s, episodes 8324, frames 63.7 M, mean_epr 14.38, run_loss -167.63
+time 05h 09m 04s, episodes 8343, frames 63.9 M, mean_epr 14.44, run_loss -167.62
+
+	64M frames: saved model
+
+time 05h 10m 04s, episodes 8361, frames 64.1 M, mean_epr 14.49, run_loss -168.78
+time 05h 11m 04s, episodes 8380, frames 64.2 M, mean_epr 14.89, run_loss -164.78
+time 05h 12m 04s, episodes 8399, frames 64.4 M, mean_epr 14.63, run_loss -168.35
+time 05h 13m 04s, episodes 8419, frames 64.6 M, mean_epr 14.67, run_loss -167.59
+time 05h 14m 04s, episodes 8438, frames 64.8 M, mean_epr 14.89, run_loss -165.19
+time 05h 15m 05s, episodes 8458, frames 64.9 M, mean_epr 14.82, run_loss -166.06
+time 05h 16m 05s, episodes 8473, frames 65.1 M, mean_epr 14.95, run_loss -164.66
+time 05h 17m 05s, episodes 8495, frames 65.3 M, mean_epr 14.48, run_loss -167.78
+time 05h 18m 05s, episodes 8512, frames 65.5 M, mean_epr 14.70, run_loss -167.38
+time 05h 19m 05s, episodes 8531, frames 65.6 M, mean_epr 14.40, run_loss -167.78
+time 05h 20m 05s, episodes 8547, frames 65.8 M, mean_epr 14.00, run_loss -168.41
+time 05h 21m 05s, episodes 8567, frames 66.0 M, mean_epr 14.35, run_loss -167.39
+
+	66M frames: saved model
+
+time 05h 22m 05s, episodes 8587, frames 66.2 M, mean_epr 14.39, run_loss -166.73
+time 05h 23m 05s, episodes 8608, frames 66.3 M, mean_epr 14.62, run_loss -165.37
+time 05h 24m 05s, episodes 8626, frames 66.5 M, mean_epr 14.80, run_loss -163.12
+time 05h 25m 05s, episodes 8648, frames 66.7 M, mean_epr 14.86, run_loss -164.27
+time 05h 26m 05s, episodes 8666, frames 66.9 M, mean_epr 15.13, run_loss -162.42
+time 05h 27m 05s, episodes 8687, frames 67.0 M, mean_epr 15.58, run_loss -160.45
+time 05h 28m 05s, episodes 8708, frames 67.2 M, mean_epr 15.84, run_loss -158.44
+time 05h 29m 05s, episodes 8725, frames 67.4 M, mean_epr 15.66, run_loss -160.73
+time 05h 30m 05s, episodes 8745, frames 67.6 M, mean_epr 15.48, run_loss -161.94
+time 05h 31m 05s, episodes 8765, frames 67.7 M, mean_epr 15.60, run_loss -163.41
+time 05h 32m 05s, episodes 8784, frames 67.9 M, mean_epr 15.81, run_loss -161.93
+
+	68M frames: saved model
+
+time 05h 33m 05s, episodes 8805, frames 68.1 M, mean_epr 16.06, run_loss -160.98
+time 05h 34m 05s, episodes 8823, frames 68.3 M, mean_epr 16.35, run_loss -160.12
+time 05h 35m 05s, episodes 8844, frames 68.4 M, mean_epr 16.64, run_loss -157.50
+time 05h 36m 05s, episodes 8864, frames 68.6 M, mean_epr 16.68, run_loss -157.69
+time 05h 37m 05s, episodes 8884, frames 68.8 M, mean_epr 16.58, run_loss -159.50
+time 05h 38m 05s, episodes 8901, frames 69.0 M, mean_epr 16.72, run_loss -157.10
+time 05h 39m 05s, episodes 8921, frames 69.1 M, mean_epr 16.25, run_loss -161.04
+time 05h 40m 05s, episodes 8943, frames 69.3 M, mean_epr 16.36, run_loss -160.25
+time 05h 41m 05s, episodes 8962, frames 69.5 M, mean_epr 16.46, run_loss -159.34
+time 05h 42m 05s, episodes 8982, frames 69.7 M, mean_epr 16.65, run_loss -158.15
+time 05h 43m 05s, episodes 9002, frames 69.8 M, mean_epr 16.44, run_loss -158.66
+
+	70M frames: saved model
+
+time 05h 44m 05s, episodes 9024, frames 70.0 M, mean_epr 16.40, run_loss -157.02
+time 05h 45m 05s, episodes 9041, frames 70.2 M, mean_epr 16.04, run_loss -159.22
+time 05h 46m 05s, episodes 9061, frames 70.4 M, mean_epr 15.80, run_loss -159.53
+time 05h 47m 05s, episodes 9080, frames 70.5 M, mean_epr 15.65, run_loss -159.84
+time 05h 48m 05s, episodes 9101, frames 70.7 M, mean_epr 15.69, run_loss -159.72
+time 05h 49m 05s, episodes 9121, frames 70.9 M, mean_epr 15.97, run_loss -157.37
+time 05h 50m 05s, episodes 9140, frames 71.1 M, mean_epr 15.98, run_loss -158.36
+time 05h 51m 05s, episodes 9163, frames 71.2 M, mean_epr 16.25, run_loss -157.53
+time 05h 52m 05s, episodes 9179, frames 71.4 M, mean_epr 16.06, run_loss -158.31
+time 05h 53m 05s, episodes 9198, frames 71.6 M, mean_epr 15.50, run_loss -162.00
+time 05h 54m 06s, episodes 9217, frames 71.8 M, mean_epr 15.53, run_loss -163.74
+time 05h 55m 06s, episodes 9236, frames 71.9 M, mean_epr 15.58, run_loss -162.13
+
+	72M frames: saved model
+
+time 05h 56m 06s, episodes 9255, frames 72.1 M, mean_epr 15.55, run_loss -162.16
+time 05h 57m 06s, episodes 9275, frames 72.3 M, mean_epr 16.04, run_loss -158.84
+time 05h 58m 06s, episodes 9294, frames 72.5 M, mean_epr 16.21, run_loss -159.86
+time 05h 59m 06s, episodes 9317, frames 72.7 M, mean_epr 16.25, run_loss -158.00
+time 06h 00m 06s, episodes 9337, frames 72.8 M, mean_epr 16.17, run_loss -158.49
+time 06h 01m 06s, episodes 9357, frames 73.0 M, mean_epr 16.28, run_loss -158.11
+time 06h 02m 06s, episodes 9375, frames 73.2 M, mean_epr 16.31, run_loss -159.26
+time 06h 03m 06s, episodes 9395, frames 73.3 M, mean_epr 16.62, run_loss -155.70
+time 06h 04m 06s, episodes 9413, frames 73.5 M, mean_epr 16.71, run_loss -154.57
+time 06h 05m 06s, episodes 9433, frames 73.7 M, mean_epr 16.84, run_loss -153.68
+time 06h 06m 06s, episodes 9455, frames 73.8 M, mean_epr 17.09, run_loss -154.52
+
+	74M frames: saved model
+
+time 06h 07m 06s, episodes 9474, frames 74.0 M, mean_epr 16.98, run_loss -154.87
+time 06h 08m 06s, episodes 9490, frames 74.2 M, mean_epr 16.66, run_loss -156.91
+time 06h 09m 06s, episodes 9510, frames 74.4 M, mean_epr 16.51, run_loss -157.44
+time 06h 10m 06s, episodes 9530, frames 74.5 M, mean_epr 16.60, run_loss -157.59
+time 06h 11m 06s, episodes 9548, frames 74.7 M, mean_epr 16.84, run_loss -155.54
+time 06h 12m 06s, episodes 9567, frames 74.9 M, mean_epr 16.63, run_loss -157.34
+time 06h 13m 06s, episodes 9589, frames 75.0 M, mean_epr 16.82, run_loss -156.03
+time 06h 14m 06s, episodes 9608, frames 75.2 M, mean_epr 16.68, run_loss -155.40
+time 06h 15m 06s, episodes 9624, frames 75.4 M, mean_epr 16.59, run_loss -154.41
+time 06h 16m 06s, episodes 9642, frames 75.5 M, mean_epr 16.04, run_loss -160.03
+time 06h 17m 06s, episodes 9662, frames 75.7 M, mean_epr 16.04, run_loss -161.09
+time 06h 18m 06s, episodes 9680, frames 75.9 M, mean_epr 15.95, run_loss -160.98
+
+	76M frames: saved model
+
+time 06h 19m 06s, episodes 9696, frames 76.0 M, mean_epr 15.81, run_loss -161.29
+time 06h 20m 06s, episodes 9716, frames 76.2 M, mean_epr 15.80, run_loss -163.35
+time 06h 21m 06s, episodes 9734, frames 76.4 M, mean_epr 15.70, run_loss -164.70
+time 06h 22m 06s, episodes 9755, frames 76.6 M, mean_epr 16.07, run_loss -160.87
+time 06h 23m 06s, episodes 9774, frames 76.7 M, mean_epr 16.29, run_loss -159.92
+time 06h 24m 06s, episodes 9791, frames 76.9 M, mean_epr 16.25, run_loss -160.07
+time 06h 25m 06s, episodes 9812, frames 77.1 M, mean_epr 16.26, run_loss -160.20
+time 06h 26m 06s, episodes 9829, frames 77.2 M, mean_epr 16.33, run_loss -160.24
+time 06h 27m 06s, episodes 9850, frames 77.4 M, mean_epr 16.40, run_loss -157.02
+time 06h 28m 06s, episodes 9871, frames 77.6 M, mean_epr 16.49, run_loss -156.34
+time 06h 29m 06s, episodes 9890, frames 77.7 M, mean_epr 16.54, run_loss -156.98
+time 06h 30m 06s, episodes 9910, frames 77.9 M, mean_epr 16.23, run_loss -156.97
+
+	78M frames: saved model
+
+time 06h 31m 06s, episodes 9929, frames 78.1 M, mean_epr 16.29, run_loss -157.28
+time 06h 32m 06s, episodes 9947, frames 78.3 M, mean_epr 16.52, run_loss -156.52
+time 06h 33m 06s, episodes 9967, frames 78.4 M, mean_epr 16.48, run_loss -156.23
+time 06h 34m 06s, episodes 9986, frames 78.6 M, mean_epr 16.53, run_loss -155.93
+time 06h 35m 06s, episodes 10007, frames 78.8 M, mean_epr 16.79, run_loss -154.28
+time 06h 36m 06s, episodes 10025, frames 78.9 M, mean_epr 16.86, run_loss -154.61
+time 06h 37m 06s, episodes 10043, frames 79.1 M, mean_epr 16.85, run_loss -155.66
+time 06h 38m 06s, episodes 10066, frames 79.3 M, mean_epr 16.91, run_loss -154.72
+time 06h 39m 06s, episodes 10083, frames 79.4 M, mean_epr 16.89, run_loss -154.92
+time 06h 40m 06s, episodes 10102, frames 79.6 M, mean_epr 16.97, run_loss -154.79
+time 06h 41m 06s, episodes 10121, frames 79.8 M, mean_epr 17.05, run_loss -154.10
+time 06h 42m 06s, episodes 10139, frames 79.9 M, mean_epr 16.68, run_loss -154.44
+
+	80M frames: saved model
+

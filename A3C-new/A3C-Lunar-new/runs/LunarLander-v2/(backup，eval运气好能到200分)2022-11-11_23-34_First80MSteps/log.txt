@@ -1,0 +1,32 @@
+
+time 00h 01m 00s, episodes 3908, steps 1.0 M, mean_epr -11.00, run_loss 49451.71
+time 00h 02m 00s, episodes 5795, steps 1.9 M, mean_epr 18.50, run_loss 50813.12
+
+	2M steps: saved model
+
+time 00h 03m 00s, episodes 8046, steps 2.7 M, mean_epr 60.88, run_loss 46576.94
+time 00h 04m 00s, episodes 10899, steps 3.7 M, mean_epr 225.66, run_loss 33879.97
+
+	4M steps: saved model
+
+time 00h 05m 00s, episodes 13114, steps 4.6 M, mean_epr -9.54, run_loss 22268.97
+time 00h 06m 00s, episodes 17019, steps 5.7 M, mean_epr -31.56, run_loss 17260.27
+
+	6M steps: saved model
+
+time 00h 07m 00s, episodes 20609, steps 6.8 M, mean_epr 16.53, run_loss 19842.81
+time 00h 08m 00s, episodes 24565, steps 7.9 M, mean_epr 4.96, run_loss 17303.34
+
+	8M steps: saved model
+
+time 00h 09m 00s, episodes 28569, steps 9.0 M, mean_epr 21.93, run_loss 19803.92
+
+	10M steps: saved model
+
+time 00h 10m 00s, episodes 32694, steps 10.1 M, mean_epr 91.42, run_loss 27363.41
+time 00h 11m 00s, episodes 35434, steps 11.1 M, mean_epr 87.89, run_loss 30207.61
+
+	12M steps: saved model
+
+time 00h 12m 00s, episodes 39533, steps 12.3 M, mean_epr 113.24, run_loss 27586.76
+time 00h 13m 00s, episodes 44261, steps 13.5 M, mean_epr 85.40, run_loss 20447.14
